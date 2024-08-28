@@ -1,4 +1,4 @@
-<div background-color:black >
+<div background-color: white >
 <h1 align="center">Hi 👋, I'm Satyam Bhambid</h1>
 <h3 align="center">Exploring Full Stack Next.js Products, Experience in Node.js, Express.js and MongoDb</h3>
 
