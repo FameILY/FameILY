@@ -1,3 +1,4 @@
+<div background-color:black >
 <h1 align="center">Hi 👋, I'm Satyam Bhambid</h1>
 <h3 align="center">Exploring Full Stack Next.js Products, Experience in Node.js, Express.js and MongoDb</h3>
 
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fameily&show_icons=true&locale=en" alt="fameily" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fameily&" alt="fameily" /></p>
+</div>
