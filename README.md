@@ -1,16 +1,11 @@
 <h1 align="center">👾 Hello, Lone Traveler 👾</h1>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Retro Banner"/>
 
 <h3 align="center">🚀 Exploring Full Stack Next.js Development | Experienced in Node.js, Express.js, MongoDB 🌌</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Retro Divider"/>
 
-<p align="left"> 
-  <a href="https://twitter.com/amnotsatyum" target="blank">
-    <img src="https://img.shields.io/twitter/follow/amnotsatyum?logo=twitter&style=for-the-badge" alt="amnotsatyum" />
-  </a> 
-</p>
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="50%"  alt="Retro Banner"/>
 
 - 🔭 I’m currently working on **Next.js Projects**
 - 🌱 Learning **React, TailwindCSS, ShadCN, DaisyUI**
@@ -19,10 +14,16 @@
 - 💬 Ask me about **Node, Express, MongoDB**
 - 📫 Reach me at **bhambidsatyam1@gmail.com**
 
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Retro Divider"/>
 
 <h3 align="left">🎮 Connect with Me 🎮</h3>
 <p align="center">
+    <a href="https://twitter.com/amnotsatyum" target="blank">
+    <img src="https://img.shields.io/twitter/follow/amnotsatyum?logo=twitter&style=for-the-badge" alt="amnotsatyum" />
+  </a> 
   <a href="https://twitter.com/amnotsatyum" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
