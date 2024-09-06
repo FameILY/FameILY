@@ -73,7 +73,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Retro Divider"/>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fameily&show_icons=true&locale=en" alt="GitHub Stats" />
   &nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fameily&" alt="GitHub Streak" />
