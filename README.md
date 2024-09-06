@@ -14,7 +14,7 @@
 &nbsp; 💬 Ask me about **Node, Express, MongoDB** <br><br>
 &nbsp; 📫 Reach me at **bhambidsatyam1@gmail.com** <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Retro Divider"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 <h3 align="left">🎮 Connect with Me 🎮</h3>
 <p align="left">
@@ -31,7 +31,9 @@
 </p>
 
 <h3 align="left">🛠️ Languages and Tools 🛠️</h3>
+
 <p align="center"> 
+    
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
@@ -69,6 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Retro Divider"/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fameily&show_icons=true&locale=en" alt="GitHub Stats" />
