@@ -1,17 +1,17 @@
 <h1 align="center">👾 Hello, Lone Traveler 👾</h1>
 
 
-<h3 align="center">🚀 I am Satyam, Exploring Full Stack Next.js Development | Experienced in Node.js, Express.js, MongoDB 🌌</h3>
+<h3 align="center">🚀 I am Satyam, Software Developer | Experienced in Full Stack Web Development using JavaScript Frameworks | Exploring Java</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Retro Divider"/>
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="50%" alt="Retro Banner"/>
 
-&nbsp; 🔭 I’m currently working on **Next.js Projects** <br><br>
-&nbsp; 🌱 Learning **React, TailwindCSS, ShadCN, DaisyUI** <br><br>
-&nbsp; 👯 Looking to collaborate on **Node.js and Next.js Projects** <br><br>
-&nbsp; 🤝 Seeking help with **Next-Auth & React** <br><br>
-&nbsp; 💬 Ask me about **Node, Express, MongoDB** <br><br>
+&nbsp; 🔭 I’m currently working on **Java Spring** <br><br>
+&nbsp; 🌱 Learning **Spring AI, Angular, Spring Web, Python, Flask** <br><br>
+&nbsp; 👯 Looking to collaborate on **Web Apps** <br><br>
+&nbsp; 🤝 Seeking help with **Deployment and Devops** <br><br>
+&nbsp; 💬 Ask me about **Node, Express, MongoDB, React, Next** <br><br>
 &nbsp; 📫 Reach me at **bhambidsatyam1@gmail.com** <br><br>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
